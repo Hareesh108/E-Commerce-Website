@@ -21,7 +21,7 @@
 
 ![](frontend/public/images/5.png)
 
-![](ifrontend/public/images/6.png)
+![](frontend/public/images/6.png)
 
 
 ### OVERVIEW
