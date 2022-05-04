@@ -19,7 +19,7 @@
 
 ### CODE
 
-![](frontend/public/images/5.png
+![](frontend/public/images/5.png)
 
 ![](ifrontend/public/images/6.png)
 
