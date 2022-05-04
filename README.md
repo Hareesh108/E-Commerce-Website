@@ -1,3 +1,49 @@
+## Project Name- E-Commerce-Website
+
+## Resources used:
+   - JavaScript
+   - React.js
+   - Node.js
+   - Express.js
+   - MongoDB
+   - Paypal
+
+## Please watch this project demo and explanation video :
+- Click Above Thumbnail
+[![E-Commerce-Website](https://img.youtube.com/vi/0CCjuMfcECY/0.jpg)](https://www.youtube.com/watch?v=0CCjuMfcECY)
+
+## Below you will find sample images :)
+
+![](images/4.png)
+
+
+### OVERVIEW
+
+![](images/9.png)
+
+![](images/10.png)
+
+![](images/11.png)
+
+![](images/12.png)
+
+
+### CODE
+
+![](images/5.png)
+
+
+![](images/6.png)
+
+
+![](images/7.png)
+
+
+![](images/8.png)
+
+
+### THANK YOU SO MUCH
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
